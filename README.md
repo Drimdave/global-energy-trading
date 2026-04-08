@@ -13,13 +13,11 @@ A professional, minimal, and authoritative multi-page website for **D&C Energy L
 
 ---
 
-## 🖥️ Desktop Showcase
+## 🖥️ Desktop & Mobile Showcase
 
-![Hero Section — Full-screen oil refinery backdrop with cinematic gradient overlays and GSAP entrance animations](public/screenshot-hero.png)
+![Global Energy Trading — Desktop View](public/global-desktop.png)
 
-![What We Trade — Commodity cards for Crude Oil, Natural Gas, Refined Products and Logistics](public/screenshot-trade.png)
-
-![About Page — Container ship hero with mission statement and leadership section](public/screenshot-about.png)
+![Global Energy Trading — Mobile View](public/global-mobile.png)
 
 ---
 
