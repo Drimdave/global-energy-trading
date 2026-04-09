@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⛽ Global Energy Trading
+# Global Energy Trading
 
 A professional, minimal, and authoritative multi-page website for **D&C Energy Limited** — a global trading company operating across the oil, gas, refined products, and logistics sectors. Built with Next.js, Tailwind CSS, and GSAP for a Fortune 500-grade digital presence.
 
@@ -21,7 +21,7 @@ A professional, minimal, and authoritative multi-page website for **D&C Energy L
 
 ---
 
-## ✨ Core Features
+## Core Features
 
 - **Cinematic Hero Sections**: Full-viewport hero banners with slow-pan background animations, layered gradient overlays, and staggered GSAP text reveals on every page.
 - **Responsive Floating Navigation**: Transparent navbar that morphs into a pill-shaped, glass-blurred floating bar on scroll with active route highlighting.
@@ -35,7 +35,7 @@ A professional, minimal, and authoritative multi-page website for **D&C Energy L
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 | Layer | Technology |
 |---|---|
@@ -89,7 +89,7 @@ global-energy-trading/
 
 ---
 
-## 🎨 Design System
+## Design System
 
 The brand palette is defined as Tailwind CSS 4 theme tokens in `globals.css`:
 
@@ -106,7 +106,7 @@ The brand palette is defined as Tailwind CSS 4 theme tokens in `globals.css`:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -142,7 +142,7 @@ npm start
 
 ---
 
-## 🌐 Deployment
+## Deployment
 
 This project is optimized for deployment on **Vercel**. Connect your GitHub repository to Vercel for automatic deployments on every push.
 
@@ -163,14 +163,6 @@ The `standalone` output mode is also configured for Docker/container deployments
 
 ---
 
-## 📝 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
-
----
-
-<div align="center">
-
-**Built with precision for the global energy sector.**
-
-</div>
